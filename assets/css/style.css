@@ -1,0 +1,14 @@
+/* style.css (not plural) */
+
+body {
+  background-color: yellow;
+  font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+table {
+  background-color: grey;
+}
